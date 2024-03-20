@@ -1,0 +1,15 @@
+.nav2
+{
+    background-color: rgb(192, 192, 240);
+}
+
+.nav2 .link .navLink
+{
+    color: rgb(1, 1, 46);
+}
+
+.menu-card
+{
+    border: 1px solid black;
+    padding: 15px;
+}
