@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App]
 
 ## Available Scripts
 
+Add your Database Collections to 
+
+### `mongodb.js`
+
 In the project directory, you can run:
 
 ### `npm start`
